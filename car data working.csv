@@ -1,0 +1,13 @@
+,,,Percentage Cars in Data
+,Data for total no. of cars,301,
+,,,
+,Number of Petrol Cars,239,79.40%
+,Number of Diesel Cars,60,19.93%
+,Number of CNG Cars,2,0.66%
+,Number of Manual,261,86.71%
+,Number of Automatic,40,13.29%
+,,,
+,,,
+,,,
+cond 1,"petrol (km<7000), no of years max 5 years, 2.2 lakhs",,
+cond2,"avg pricing of petrol,diesel and cng",,
